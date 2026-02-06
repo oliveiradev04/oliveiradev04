@@ -1,6 +1,7 @@
 Olá, Eu sou Demétrius Oliveira.
 
 💻 Desenvolvedor Back-End
+
 🎓 Acadêmico de TI (Análise e Desenvolvimento de Sistemas)
 
 Tecnologias:
