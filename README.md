@@ -7,7 +7,7 @@
 
 🇧🇷 Português — Nativo  
 🇺🇸 Inglês — Intermediário  
-🇪🇸🇦🇷🇵🇾 Espanhol — Intermediário
+🇪🇸🇵🇾 Espanhol — Intermediário
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
