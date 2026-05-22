@@ -1,7 +1,7 @@
 ## Olá, Eu sou Demétrius Oliveira.
 
 💻 Estagiário de TI.  
-🎓 Acadêmico de TI (Análise e Desenvolvimento de Sistemas)  
+🎓 Análise e Desenvolvimento de Sistemas  
 
 🌎 Idiomas
 
