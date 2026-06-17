@@ -1,4 +1,4 @@
-# Olá, eu sou Demétrius Oliveira 👋
+# Olá, eu sou o Demétrius Oliveira 👋
 
 * 💻 **Estagiário de TI**
 * 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
