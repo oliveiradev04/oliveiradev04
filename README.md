@@ -2,7 +2,7 @@
 
 * 💻 **Estagiário de TI**
 * 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
-* ☕ **Focado em me tornar um Desenvolvedor Backend Java**
+* ☕ **Buscando minha primeira oportunidade como Desenvolvedor Júnior**
 
 ---
 
