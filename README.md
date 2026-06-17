@@ -2,7 +2,7 @@
 
 * 💻 **Estagiário de TI**
 * 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
-* ☕ **Buscando minha primeira oportunidade como Desenvolvedor Júnior**
+* ☕ **Buscando minha primeira oportunidade como Desenvolvedor Back End Júnior**
 
 ---
 
