@@ -1,6 +1,5 @@
 # Olá, eu sou o Demétrius Oliveira 👋
 
-* 💻 **Estagiário de TI**
 * 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 * ☕ **Buscando minha primeira oportunidade como Estágiario ou Desenvolvedor Back End Júnior**
 
